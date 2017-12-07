@@ -1,6 +1,5 @@
 # trajectory
-Python application for geomechanical stability analysis of arbitrary borehole trajectory
-Using mechanical failure criteria: Coulomb, Coulomb-Mohr, Drucker-Prager, Tresk, Mises.
+Python application for geomechanical stability analysis of arbitrary borehole trajectory, using mechanical failure criteria: Coulomb, Coulomb-Mohr, Drucker-Prager, Tresk, Mises.
 ## input 
 * information about reservoir layers mechanical properties 
 * trajectory of borehole in coordinates of differen points
